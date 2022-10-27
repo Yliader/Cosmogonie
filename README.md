@@ -14,7 +14,9 @@ Balor :
 - Module très expérimental, pas développé sur typon, peu documenté
 - Trois codes : 
 Balorv.1 : Commandes MIDI pour une TR505
+
 Balorv.1 exp : Commande pour une TR505 avec expandeur
+
 BalorPentaExp : Commande pour des notes en pentatonique + expandeur
 
 Bifrost :
