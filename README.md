@@ -11,4 +11,6 @@ http://meta-blog.eklablog.com/kicad-ajout-d-une-librairie-p927602
 
 http://meta-blog.eklablog.com/kicad-ajout-de-librairies-p927194
 
+Note : elles ne fonctionneront possiblement PAS sur la dernière version de Kicad
+
 Vous pouvez parcourir les différentes pages en navigant dans l'arborescence, entre les schémas, les codes, ou les archives complètes.
